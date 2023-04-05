@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react;"
+import { useEffect, useState } from "react";
 import { FlatList, Image, Linking, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 export default function Mynewscard() {
