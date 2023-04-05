@@ -44,7 +44,7 @@ export default function Mynewscard() {
 
 const styles = StyleSheet.create({
     mynewscard: {
-        // borderColor: 'white',
+        borderColor: 'white',
         borderWidth: 1,
         backgroundColor: 'grey',
         width: '96%',
